@@ -1,4 +1,4 @@
-import { HackerNewsItem, TranslateRequest, TranslateResponse } from '@/types';
+import { HackerNewsItem } from '@/types';
 
 /**
  * 获取Hacker News热门文章ID列表
